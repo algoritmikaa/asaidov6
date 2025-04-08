@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: aquamarine;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+h1 {
+    color:darkblue;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(239, 116, 137);
+    padding: 3px;
+}
+
+footer p {
+    background-color: white;
+}
+
+nav {
+    background-color:darkgreen;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 13px;
+}
+
+.saidov {
+    background-color: darkgreen;
+    padding: 11px;
+    color: white;
+}
+
+h2 {
+    color: royalblue;
+}
